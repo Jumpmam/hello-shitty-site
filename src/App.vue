@@ -3,7 +3,6 @@ import { onMounted } from "vue";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import Hero from "./components/Hero.vue";
-import MeetShitty from "./components/MeetShitty.vue";
 import ShittyFacts from "./components/ShittyFacts.vue";
 import ShittyArt from "./components/ShittyArt.vue";
 import ShittyProducts from "./components/ShittyProducts.vue";
@@ -46,7 +45,6 @@ onMounted(() => {
 
 <template>
   <Hero />
-  <MeetShitty />
   <BrandQuote text="Shitty is cutest shit you have ever met" tone="brown" size="md" />
   <ShittyFacts />
   <BrandQuote text="Shitty looks like an art" tone="pink" size="lg" />
