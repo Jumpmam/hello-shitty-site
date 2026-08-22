@@ -11,7 +11,6 @@ const facts = [
 
 <template>
   <section class="facts section" id="facts">
-    <p class="eyebrow reveal">03 / shitty facts</p>
     <h2 class="facts-title display reveal">official documentation</h2>
 
     <div class="facts-grid">

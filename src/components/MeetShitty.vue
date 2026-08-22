@@ -17,7 +17,6 @@ const fragments = [
   <section class="meet section" id="meet">
     <div class="meet-tiles" aria-hidden="true"></div>
 
-    <p class="eyebrow reveal">02 / who is she</p>
     <h2 class="meet-title display reveal">SHE'S SHITTY.</h2>
 
     <div class="meet-stage reveal">
