@@ -109,7 +109,7 @@ function doFlush() {
 .climax-frame {
   position: relative;
   width: 100%;
-  aspect-ratio: 1500 / 400;
+  aspect-ratio: 3 / 1;
   overflow: hidden;
 }
 
